@@ -41,7 +41,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 
 	
-<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
+<img src="https://media2.giphy.com/media/shpIYfSrJ5d9wqrumG/giphy.gif?cid=ecf05e47vymw7zwysfc8ld4dss9djtm3cixes905goy6xqhn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80"> 
 	  
  </div>
   
