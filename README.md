@@ -5,7 +5,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henrique-freitas&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-freitas&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-freitas&theme=radical&hide_border=true"/>
 	 	  	  
 ### A little about me...  <img src="https://media1.giphy.com/media/VFGsPXfFeIcGdtwAIC/giphy.gif?cid=ecf05e47n1710rjb6la5ykoagrsqm6u4cctlfy2g4n5xoowt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> 
-    A passionate SRE, currently working as SRE Engineer at BillHop AB
+    A passionate SRE, currently working as SRE Engineer
 
   
 ###  ⚙️ Some Tool and Tech I use:     
