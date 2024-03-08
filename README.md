@@ -1,4 +1,4 @@
-<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
+<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgelbooru.com%2Findex.php%3Fpage%3Dpost%26s%3Dview%26id%3D8499323&psig=AOvVaw0oJbdnxcX4nJbh-UjDFCrd&ust=1709995238901000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIic_Ofy5IQDFQAAAAAdAAAAABAO">
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henrique-freitas&theme=radical"/> 
